@@ -401,10 +401,3 @@ automatically at tests setup phase. Docker containers are created during the
 tests setup phase as well and removed during the teardown phase.
 
 
-### Vagrant
-
-*TODO*
-
-### Host Based
-
-*TODO*
